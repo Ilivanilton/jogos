@@ -9,7 +9,7 @@ def jogar():
     acertou = False
 
     while not acertou and not enforcou:
-        for
+        for 
         print("Jogando...")
 
     print("Fim do jogo")

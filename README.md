@@ -1,1 +1,3 @@
-# jogos
+# Mero estudo...
+
+### Jogos simples escritos em Python
